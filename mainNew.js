@@ -1,8 +1,3 @@
-let titulo = document.getElementById("titulo")
-let subtitulo = document.getElementById("subtitulo")
-
-subtitulo.innerText = "Primeros pasos enlazando html con js"
-
 let cuenta = 0;
 
 let postres = [
